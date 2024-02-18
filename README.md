@@ -5,25 +5,57 @@ Portfolio of code I've written and projects I've been part of.
 ## Metropolia UAS Projects
 Projects that I've been part of during my studies in Metropolia. <br>
 
+### Foodbase
+https://github.com/vanchess-git/Foodbase-web <br>
+Food waste prevention app. <br>
+<br>
+JavaScript <br>
+HTML <br>
+CSS <br>
+SQL <br>
+
 ### Buddy
 https://github.com/vanchess-git/webkappa_buddy <br>
 Social media friend and company searching app for Web. <br>
+<br>
+JavaScript<br>
+React Native <br>
 
 ### Sirpa
 https://github.com/vanchess-git/Sirpa <br>
 Social media sharing app for iOS. <br>
+<br>
+Swift <br>
+SwiftUI <br>
+NoSQL <br>
 
 ### Restroom
 https://github.com/vanchess-git/BluetoothChat <br>
-Bluetooth chat room app for android. <br>
+Chat room app for android that uses bluetooth to send and receive messages.
+All the messages received are stored locally on the device instead of using a dedicated server.
+Users are also able to send and receive photos taken and images drawn on the device though this requires
+internet connection to function properly.<br>
+<br>
+<img src="images/restroom_001.png" width=30% alt="image of chat selection view">
+<img src="images/restroom_002.png" width=30% alt="image of chat view">
+<img src="images/restroom_003.png" width=30% alt="image of chat drawing pad"> <br>
+Kotlin <br>
+Jetpack Compose <br>
+SQLite <br>
 
 ### Emotion Tracker
 https://github.com/vanchess-git/NokiaHqEmotionTracker <br>
 Mood sharing app for Web. <br>
+<br>
+JavaScript <br>
+React <br>
 
 ### Innovation Project
-https://github.com/vanchess-git/EnergyWise <br>
+https://github.com/vanchess-git/EnergyW[README.md](README.md)ise <br>
 Innovation project done during studies. <br>
+<br>
+Kotlin <br>
+JetpackCompose <br>
 
 ## Metropolia UAS assignments
 Minor assignment solutions done during courses.

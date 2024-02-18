@@ -33,7 +33,9 @@ React Native <br>
 
 ### Sirpa
 https://github.com/vanchess-git/Sirpa <br>
-Social media sharing app for iOS. <br>
+Social media sharing app for iOS. With Sirpa users can turn their travel photos
+into a travel Journal. Sirpa also uses voice to text to help users write
+their posts faster and easier.<br>
 <br>
 Swift <br>
 SwiftUI <br>
@@ -55,10 +57,15 @@ SQLite <br>
 
 ### Emotion Tracker
 https://github.com/vanchess-git/NokiaHqEmotionTracker <br>
-Mood sharing app for Web. <br>
+Mood sharing app for Web. Emotion tracker was built as part of a bigger
+installment idea to display user input as colors. Idea behind it is 
+to allow users to tell their current mood by clicking a button and then
+the gathered user data is displayed as charts in the app.<br>
 <br>
 JavaScript <br>
 React <br>
+Node.js <br>
+SQLite <br>
 
 ### Innovation Project
 https://github.com/vanchess-git/EnergyWise <br>

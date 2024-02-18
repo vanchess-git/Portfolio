@@ -11,9 +11,9 @@ Food waste prevention app for web. Idea of Foodbase is to give individuals
 a platform to share their foods that would otherwise go to waste. 
 Included functionality is to send DMs to other users. <br>
 <br>
-<img src="images/foodbase_001.jpg" width=30% alt="image of foodbase main view">
-<img src="images/foodbase_002.jpg" width=30% alt="image of messages view">
-<img src="images/foodbase_003.jpg" width=30% alt="image of chat screen"> <br>
+<img src="images/foodbase_001.JPG" width=30% alt="image of foodbase main view">
+<img src="images/foodbase_002.JPG" width=30% alt="image of messages view">
+<img src="images/foodbase_003.JPG" width=30% alt="image of chat screen"> <br>
 JavaScript <br>
 Node.js <br>
 HTML <br>

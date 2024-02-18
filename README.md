@@ -22,9 +22,13 @@ SQL <br>
 
 ### Buddy
 https://github.com/vanchess-git/webkappa_buddy <br>
-Social media friend and company searching app for Web. <br>
+Social media friend and company searching app for Web. Idea behind
+buddy is to provide people a platform for social networking or for finding
+company to activities that you would rather do with someone but have
+no one available to join in.<br>
 <br>
-JavaScript<br>
+JavaScript 
+<br>
 React Native <br>
 
 ### Sirpa
@@ -57,7 +61,7 @@ JavaScript <br>
 React <br>
 
 ### Innovation Project
-https://github.com/vanchess-git/EnergyW[README.md](README.md)ise <br>
+https://github.com/vanchess-git/EnergyWise <br>
 Innovation project done during studies. <br>
 <br>
 Kotlin <br>

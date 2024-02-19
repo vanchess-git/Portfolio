@@ -75,10 +75,13 @@ React <br>
 Node.js <br>
 SQLite <br>
 
-### Innovation Project
+### Energy consumption tracker
 https://github.com/vanchess-git/EnergyWise <br>
-Innovation project done during studies. <br>
+Multi disciplinary innovation project done during studies. due to tighter time constraints
+this project has the base design done but a lo of the intended functions
+were dropped due to lack of time.<br>
 <br>
+<img src="images/energy_001.JPG" width=30% alt="image of app main view"> <br>
 Kotlin <br>
 JetpackCompose <br>
 

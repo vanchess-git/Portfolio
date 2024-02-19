@@ -61,7 +61,8 @@ Jetpack Compose <br>
 SQLite <br>
 
 ### Emotion Tracker
-https://github.com/vanchess-git/NokiaHqEmotionTracker <br>
+https://github.com/vanchess-git/EmotionTracker <br>
+https://github.com/vanchess-git/EmotionBackend <br>
 Mood sharing app for Web. Emotion tracker was built as part of a bigger
 installment idea to display user input as colors. Idea behind it is 
 to allow users to tell their current mood by clicking a button and then

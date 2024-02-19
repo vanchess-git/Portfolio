@@ -68,6 +68,8 @@ installment idea to display user input as colors. Idea behind it is
 to allow users to tell their current mood by clicking a button and then
 the gathered user data is displayed as charts in the app.<br>
 <br>
+<img src="images/emotion_001.JPG" width=45% alt="image of chat view">
+<img src="images/emotion_002.JPG" width=45% alt="image of chat drawing pad"> <br>
 JavaScript <br>
 React <br>
 Node.js <br>

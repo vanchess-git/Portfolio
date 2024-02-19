@@ -27,8 +27,10 @@ buddy is to provide people a platform for social networking or for finding
 company to activities that you would rather do with someone but have
 no one available to join in.<br>
 <br>
-JavaScript 
-<br>
+<img src="images/buddy_001.png" width=30% alt="image of login screen">
+<img src="images/buddy_002.png" width=30% alt="image of feed view">
+<img src="images/buddy_003.png" width=30% alt="image of profile view"> <br>
+JavaScript <br>
 React Native <br>
 
 ### Sirpa
@@ -37,6 +39,9 @@ Social media sharing app for iOS. With Sirpa users can turn their travel photos
 into a travel Journal. Sirpa also uses voice to text to help users write
 their posts faster and easier.<br>
 <br>
+<img src="images/sirpa_001.png" width=30% alt="image of login screen">
+<img src="images/sirpa_002.png" width=30% alt="image of feed view">
+<img src="images/sirpa_003.png" width=30% alt="image of profile view"> <br>
 Swift <br>
 SwiftUI <br>
 NoSQL <br>
